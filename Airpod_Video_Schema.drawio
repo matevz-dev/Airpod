@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T13:18:42.045Z" agent="5.0 (Windows)" etag="Sypfmq3EzduMNNtLHwZV" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T13:19:53.039Z" agent="5.0 (Windows)" etag="E44Je1SS92LJiJoYNe9H" version="13.9.1" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="Page-1">
-    <mxGraphModel dx="1234" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="DmFKKeBw7BDAcUaFhrxw-23" value="VLC Player" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/128/VLC_Media_Player.png" parent="1" vertex="1">
           <mxGeometry x="670" y="610" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ck-XuCuuVgkl051vshuR-14" value="Audio/Video Control" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmFKKeBw7BDAcUaFhrxw-26" target="DmFKKeBw7BDAcUaFhrxw-21">
+        <mxCell id="ck-XuCuuVgkl051vshuR-14" value="Audio/Video Control" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="DmFKKeBw7BDAcUaFhrxw-26" target="DmFKKeBw7BDAcUaFhrxw-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="710" as="targetPoint" />
             <mxPoint x="770" y="520" as="sourcePoint" />
