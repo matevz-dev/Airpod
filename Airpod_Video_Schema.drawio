@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T13:23:44.607Z" agent="5.0 (Windows)" etag="5XEguV_MdwfmKE5jUxoA" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T13:24:06.695Z" agent="5.0 (Windows)" etag="f1PAg_D2A5hvEOSlARpw" version="13.9.1" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="Page-1">
     <mxGraphModel dx="1234" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="7P57h7jw-dz2YICdta8h-11" value="&lt;b&gt;HDMI OUT 2&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DmFKKeBw7BDAcUaFhrxw-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="647.5" y="920" as="targetPoint" />
+            <mxPoint x="645" y="867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DmFKKeBw7BDAcUaFhrxw-21" value="PC" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" parent="1" vertex="1">
