@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T16:52:30.062Z" agent="5.0 (Windows)" etag="DCkSW9ECS-wa5XTfWLAq" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T16:55:30.718Z" agent="5.0 (Windows)" etag="tWdOZmJ_yPn6G-LDoRFD" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="APOD Diagram">
     <mxGraphModel dx="3061" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,7 +263,7 @@
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-116" value="Booking system" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="1310" y="40" width="230" height="216.82" as="geometry" />
         </mxCell>
-        <mxCell id="0EyMxYRM3sE1ujKV8BTT-117" value="Remote management" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-117" value="Remote Mgmt" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="750" y="118.1790909090909" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-118" value="&lt;div&gt;Workflow engine&lt;/div&gt;&lt;div&gt;Task Mgmt&lt;/div&gt;&lt;div&gt;Cleaning Mgmt&lt;/div&gt;&lt;div&gt;Maintenance Mgmt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
@@ -275,25 +275,25 @@
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-120" value="Remote SW update" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="750" y="39.996363636363625" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
-        <mxCell id="0EyMxYRM3sE1ujKV8BTT-127" value="Session Managament" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-127" value="Session Mgmt" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="1030" y="190.9090909090909" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-128" value="&lt;div&gt;Sensors data&lt;/div&gt;&lt;div&gt;Device statuses&lt;br&gt;&lt;/div&gt;&lt;div&gt;Session data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="970" width="260" height="120" as="geometry" />
+          <mxGeometry x="2050" y="800" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-129" value="&lt;div&gt;Booking/reservation data&lt;/div&gt;&lt;div&gt;Digital signage content&lt;/div&gt;&lt;div&gt;Entertainment content&lt;/div&gt;&lt;div&gt;SW update&lt;/div&gt;&lt;div&gt;PLC commands&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3075" y="930" width="340" height="170" as="geometry" />
+          <mxGeometry x="2930" y="821" width="340" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-130" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=4;fontSize=29;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1910" y="1140" as="sourcePoint" />
-            <mxPoint x="2090" y="1020" as="targetPoint" />
+            <mxPoint x="2060" y="1050" as="sourcePoint" />
+            <mxPoint x="2400" y="859.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-131" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=4;fontSize=29;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2960" y="980" as="sourcePoint" />
-            <mxPoint x="3160" y="1110" as="targetPoint" />
+            <mxPoint x="2790" y="859.75" as="sourcePoint" />
+            <mxPoint x="3120" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
