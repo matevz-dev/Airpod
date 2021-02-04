@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T12:33:41.672Z" agent="5.0 (Windows)" etag="nMW8iSutQjs_LSWnXJxk" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T12:33:53.803Z" agent="5.0 (Windows)" etag="C-lzPzap7uvhqubnPPuj" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="APOD Diagram">
     <mxGraphModel dx="3671" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="ZW9950_h4QcM178EK5Ji-1" value="PLC" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;strokeColor=#FF0000;fontSize=26;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="75" y="1330" width="305" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ZW9950_h4QcM178EK5Ji-3" value="Digital Signage Screen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;direction=south;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="ZW9950_h4QcM178EK5Ji-3" value="Outer Digital Signage Screen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;direction=south;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="740" y="662.5" width="350" height="626" as="geometry" />
         </mxCell>
         <mxCell id="ZW9950_h4QcM178EK5Ji-5" value="PC for Digital Signage" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/electronic-devices-vol-1-1/36/1_graphic_card_electronic_device_motherboard_smps_hardware_chip_1-128.png;strokeColor=#000000;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
