@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T09:55:53.358Z" agent="5.0 (Windows)" etag="FUbT67l92br2yJXmir43" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T10:23:57.400Z" agent="5.0 (Windows)" etag="ZuQNzCUm-KgsW1Mz89ob" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="Page-1">
-    <mxGraphModel dx="2858" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,17 +251,38 @@
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-104" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#000000;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-99">
           <mxGeometry width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="0EyMxYRM3sE1ujKV8BTT-107" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="460" width="430" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="0EyMxYRM3sE1ujKV8BTT-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iphone-calculator-shopping-report/128/barChart.png;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="521" width="128" height="128" as="geometry" />
-        </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-109" value="IoT Edge devices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="440" y="1200" width="173" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0EyMxYRM3sE1ujKV8BTT-110" value="&lt;div&gt;Remote management&lt;/div&gt;&lt;div&gt;Automatic actions&lt;/div&gt;&lt;div&gt;Workflow engine&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2505" y="521" width="265" height="289" as="geometry" />
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-121" value="" style="group;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1560" y="370" width="1590" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-112" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=20;fontColor=#000000;align=center;fillColor=none;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry width="1590" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-115" value="" style="group;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="30" y="80" width="470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-114" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-115">
+          <mxGeometry width="470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iphone-calculator-shopping-report/128/barChart.png;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-115">
+          <mxGeometry x="10" y="70" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-116" value="Booking system" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="1310" y="82.5" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-117" value="Remote management" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="1030" y="210" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-118" value="&lt;div&gt;Workflow engine&lt;/div&gt;&lt;div&gt;Task Mgmt&lt;/div&gt;&lt;div&gt;Cleaning Mgmt&lt;/div&gt;&lt;div&gt;Maintenance Mgmt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="510" y="80" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-119" value="Infrastructure monitoring" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="750" y="212.5" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-120" value="Remote SW update" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="1030" y="125" width="260" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
