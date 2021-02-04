@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T09:43:41.212Z" agent="5.0 (Windows)" etag="vCA_RL95KV1Z8YEBUK9e" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T09:45:46.681Z" agent="5.0 (Windows)" etag="dJrAWN3JOCiVNDC_IvM8" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="Page-1">
     <mxGraphModel dx="2858" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,10 @@
           <mxGeometry x="1840" y="521" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-109" value="IoT Edge devices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1340" width="173" height="50" as="geometry" />
+          <mxGeometry x="440" y="1200" width="173" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-110" value="&lt;div&gt;Remote management&lt;/div&gt;&lt;div&gt;Automatic actions&lt;/div&gt;&lt;div&gt;Workflow engine&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2505" y="521" width="265" height="289" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
