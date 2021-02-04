@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T10:44:52.839Z" agent="5.0 (Windows)" etag="LMXq_6X-uLPiFIS8L015" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T11:25:00.408Z" agent="5.0 (Windows)" etag="MiQO5iVYg4__ElgveglY" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="APOD Diagram">
-    <mxGraphModel dx="5567" dy="2543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,7 +264,7 @@
           <mxGeometry x="1310" y="75" width="230" height="181.8181818181818" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-117" value="Remote management" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
-          <mxGeometry x="1030" y="190.9090909090909" width="260" height="63.63636363636363" as="geometry" />
+          <mxGeometry x="750" y="118.1790909090909" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-118" value="&lt;div&gt;Workflow engine&lt;/div&gt;&lt;div&gt;Task Mgmt&lt;/div&gt;&lt;div&gt;Cleaning Mgmt&lt;/div&gt;&lt;div&gt;Maintenance Mgmt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="510" y="72.72727272727272" width="230" height="181.8181818181818" as="geometry" />
@@ -273,7 +273,10 @@
           <mxGeometry x="750" y="193.1818181818182" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-120" value="Remote SW update" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
-          <mxGeometry x="1030" y="113.63636363636363" width="260" height="63.63636363636363" as="geometry" />
+          <mxGeometry x="750" y="39.996363636363625" width="260" height="63.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-127" value="Session Managament" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
+          <mxGeometry x="1030" y="193.17909090909092" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
