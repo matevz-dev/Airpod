@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T11:25:00.408Z" agent="5.0 (Windows)" etag="MiQO5iVYg4__ElgveglY" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T11:25:56.027Z" agent="5.0 (Windows)" etag="wUwlMOSea0lY7IaQn5Y7" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="APOD Diagram">
     <mxGraphModel dx="3671" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,22 +252,22 @@
           <mxGeometry width="1590" height="300" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-115" value="" style="group;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="0EyMxYRM3sE1ujKV8BTT-121">
-          <mxGeometry x="30" y="72.72727272727272" width="470" height="181.8181818181818" as="geometry" />
+          <mxGeometry x="30" y="72.72727272727272" width="470" height="181.82" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-114" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-115">
-          <mxGeometry width="470" height="181.8181818181818" as="geometry" />
+          <mxGeometry y="-30" width="470" height="211.82" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iphone-calculator-shopping-report/128/barChart.png;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-115">
           <mxGeometry x="10" y="63.63636363636363" width="116.36363636363636" height="116.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-116" value="Booking system" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
-          <mxGeometry x="1310" y="75" width="230" height="181.8181818181818" as="geometry" />
+          <mxGeometry x="1310" y="40" width="230" height="216.82" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-117" value="Remote management" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="750" y="118.1790909090909" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-118" value="&lt;div&gt;Workflow engine&lt;/div&gt;&lt;div&gt;Task Mgmt&lt;/div&gt;&lt;div&gt;Cleaning Mgmt&lt;/div&gt;&lt;div&gt;Maintenance Mgmt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
-          <mxGeometry x="510" y="72.72727272727272" width="230" height="181.8181818181818" as="geometry" />
+          <mxGeometry x="510" y="40" width="230" height="214.55" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-119" value="Infrastructure monitoring" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="750" y="193.1818181818182" width="260" height="63.63636363636363" as="geometry" />
@@ -276,7 +276,7 @@
           <mxGeometry x="750" y="39.996363636363625" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-127" value="Session Managament" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
-          <mxGeometry x="1030" y="193.17909090909092" width="260" height="63.63636363636363" as="geometry" />
+          <mxGeometry x="1030" y="190.9090909090909" width="260" height="63.63636363636363" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
