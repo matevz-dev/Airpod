@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T08:48:49.112Z" agent="5.0 (Windows)" etag="1pqrmhatEIoJpPTnvqTH" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T08:54:57.890Z" agent="5.0 (Windows)" etag="HGYJfZIvGG-0CVjbHyvG" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="Page-1">
-    <mxGraphModel dx="3220" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4913" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZW9950_h4QcM178EK5Ji-2" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="ZW9950_h4QcM178EK5Ji-2" value="POD" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=85;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="-480" y="400.5" width="1775" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startArrow=classic;startFill=1;" edge="1" parent="1" source="DmFKKeBw7BDAcUaFhrxw-26" target="ZW9950_h4QcM178EK5Ji-1">
@@ -73,17 +73,40 @@
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-13" value="APOD WiFi" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/electronic-devices-vol-2/36/33_Antenna_double_internet_online_router_web_wifi-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#000000;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="505" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="0EyMxYRM3sE1ujKV8BTT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="0EyMxYRM3sE1ujKV8BTT-15" target="ZW9950_h4QcM178EK5Ji-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-17" value="WiFi connection for POD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="0EyMxYRM3sE1ujKV8BTT-15" target="ZW9950_h4QcM178EK5Ji-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-15" value="External WiFi Router" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/electronic-devices-vol-2/36/33_Antenna_double_internet_online_router_web_wifi-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#000000;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="210" width="128" height="128" as="geometry" />
+          <mxGeometry x="1110" y="90" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-19" value="Power&amp;nbsp; - electricity" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/device-communication-technology-gadgets-media-obje/32/Artboard_11-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#000000;fontSize=20;fontColor=#000000;align=center;rotation=0;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="305" y="1550.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-22" value="POD 7" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-23" value="POD 6" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-24" value="POD 5" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-25" value="POD 4" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-26" value="POD 3" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-27" value="POD 2" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-28" value="POD 1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-29" value="POD n" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
