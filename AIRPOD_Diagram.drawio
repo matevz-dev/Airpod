@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T12:33:53.803Z" agent="5.0 (Windows)" etag="C-lzPzap7uvhqubnPPuj" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T16:52:30.062Z" agent="5.0 (Windows)" etag="DCkSW9ECS-wa5XTfWLAq" version="14.1.8" type="github">
   <diagram id="MnezL5NAF8C2aSRuctBU" name="APOD Diagram">
-    <mxGraphModel dx="3671" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3061" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,6 +277,24 @@
         </mxCell>
         <mxCell id="0EyMxYRM3sE1ujKV8BTT-127" value="Session Managament" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0EyMxYRM3sE1ujKV8BTT-121">
           <mxGeometry x="1030" y="190.9090909090909" width="260" height="63.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-128" value="&lt;div&gt;Sensors data&lt;/div&gt;&lt;div&gt;Device statuses&lt;br&gt;&lt;/div&gt;&lt;div&gt;Session data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="970" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-129" value="&lt;div&gt;Booking/reservation data&lt;/div&gt;&lt;div&gt;Digital signage content&lt;/div&gt;&lt;div&gt;Entertainment content&lt;/div&gt;&lt;div&gt;SW update&lt;/div&gt;&lt;div&gt;PLC commands&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3075" y="930" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-130" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=4;fontSize=29;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1910" y="1140" as="sourcePoint" />
+            <mxPoint x="2090" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EyMxYRM3sE1ujKV8BTT-131" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=4;fontSize=29;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2960" y="980" as="sourcePoint" />
+            <mxPoint x="3160" y="1110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
